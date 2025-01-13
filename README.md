@@ -1,9 +1,9 @@
 ## Me chamo Liedson Sales
 
-- 🌱 Estou aprendendo desenvolvimento web
+- 🌱 desenvolvedor front-end
 - 🔭 Sempre busco aprender algo novo todos os dias
-- 🎮 Me divirto fazendo o que gosto
-- 📊 Minha meta é que programação faça parte da minha qualidade de vida !
+- 🎮 Desafios servem de motivação
+- 📊 Cursando análise e desenvolvimento de sistemas
 <br>
 
 
